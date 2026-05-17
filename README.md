@@ -40,58 +40,27 @@ breaking     = ["things", "more things", "my own assumptions"]
 
 ---
 
-## 🔨 projects that actually shipped
+## 🔨 projects
 
-<table>
-<tr>
-<td width="50%">
+```toml
+[circulet]
+description  = "campus peer-to-peer marketplace"
+stack        = ["Next.js", "GraphQL", "PostgreSQL", "Node.js", "OAuth 2.0"]
+users        = "1,000+"
+highlight    = "40% query performance improvement via GraphQL + indexed schema"
+repo         = "github.com/cryskram/circulet"
 
-**[Circulet](https://github.com/cryskram/circulet)**
+[echoself]
+description  = "AI media generation pipeline"
+stack        = ["Python", "FastAPI", "Docker", "Next.js"]
+highlight    = "30% latency reduction via optimized inference + CDN delivery"
+repo         = "github.com/cryskram/echoself"
 
+[wip]
+description  = "ML/RL experiments + backend deep-dives"
+status       = "cooking..."
+eta          = "when it's worth showing"
 ```
-Campus P2P Marketplace
-─────────────────────
-Next.js · GraphQL · PostgreSQL
-OAuth 2.0 · RBAC · Node.js
-
-1,000+ users
-40% query perf improvement
-```
-
-</td>
-<td width="50%">
-
-**[EchoSelf](https://github.com/cryskram/echoself)**
-
-```
-AI Media Generation Pipeline
-────────────────────────────
-Python · FastAPI · Docker
-Next.js · CDN integration
-
-30% latency reduction
-containerized microservices
-```
-
-</td>
-</tr>
-<tr>
-
-<td width="50%">
-
-**[more coming soon...]**
-
-```
-currently cooking
-─────────────────
-ML/RL experiments
-backend deep-dives
-will push when ready
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
