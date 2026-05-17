@@ -45,8 +45,7 @@ breaking     = ["things", "more things", "my own assumptions"]
 ```toml
 [circulet]
 description  = "campus peer-to-peer marketplace"
-stack        = ["Next.js", "GraphQL", "PostgreSQL", "Node.js", "OAuth 2.0"]
-users        = "1,000+"
+stack        = ["Next.js", "GraphQL", "PostgreSQL", "Cloudinary", "OAuth 2.0"]
 highlight    = "40% query performance improvement via GraphQL + indexed schema"
 repo         = "github.com/cryskram/circulet"
 
@@ -66,31 +65,19 @@ eta          = "when it's worth showing"
 
 ## 🛠 stack
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  LANGUAGES    Python  TypeScript  JavaScript  C++        ║
-║  BACKEND      Node.js  FastAPI  Express  GraphQL  Redis  ║
-║  FRONTEND     Next.js  React  Tailwind  Webpack          ║
-║  DATABASES    PostgreSQL  MongoDB  SQL                   ║
-║  ML           NLP  NER  Reinforcement Learning           ║
-║  DEVOPS       Docker  Kubernetes  CI/CD  GCP  Linux      ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📊 github stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryskram&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryskram&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"/>
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,nodejs,express,fastapi,graphql,redis,nextjs,react,tailwind,postgres,mongodb,docker,kubernetes,linux,gcp,git&perline=10)](https://skillicons.dev)
 
 </div>
 
+---
+
+## 📊 activity
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cryskram&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cryskram&theme=high-contrast&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
